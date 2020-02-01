@@ -1,0 +1,2 @@
+# Modern-Low-Footprint-Cyber-Attack-Detection
+Built a Network Attack detector, a predictive model capable of distinguishing between bad and good connections. Tried different models like Logistic Regression, KNN, SVM and Neural Network as a ‘Binary’ and ‘Multi-Class’ Classification problem. Found top 10 important features related to target using “Correlation Analysis” and used “DownSampling” to make dataset more balanced.
